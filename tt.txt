@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Ttt
-=======
-branch dev2
->>>>>>> c95a760da173bed70edfc365c0f33e4aa82360de
